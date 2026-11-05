@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/profile-header.svg" width="100%" alt="Paluan Batista — Senior Software Engineer | Backend, AI, agents and bots" />
+<img src="./assets/profile-header.svg" width="100%" alt="Paluan Batista Zamproni — Senior Software Engineer | Backend, AI, agents and bots" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 <a href="https://medium.com/@paluan-developer"><img src="https://img.shields.io/badge/Medium-171717?style=for-the-badge" alt="Medium" /></a>
 </p>
 
-## Hi, I'm Paluan 👋
+## Hi, I'm Paluan Batista Zamproni 👋
 
 I'm a **Senior Software Engineer** based in **Ribeirão Preto, Brazil**, with experience building financial products and digital platforms at **Creditas, PagBank, PicPay and iFood**.
 
