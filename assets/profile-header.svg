@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Paluan Batista — Senior Software Engineer</title>
+<desc id="desc">Backend engineering, applied AI, agents and automation. Dark navy banner with teal and violet connected nodes.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#17243b"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#5eead4" stop-opacity=".14"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<circle cx="1000" cy="180" r="230" fill="url(#glow)"/>
+<rect x="56" y="63" width="44" height="4" rx="2" fill="url(#accent)"/>
+<text x="56" y="106" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#5eead4">SOFTWARE ENGINEERING / APPLIED AI</text>
+<text x="52" y="177" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#f8fafc">Paluan Batista</text>
+<text x="56" y="221" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#cbd5e1">Senior Software Engineer</text>
+<text x="56" y="282" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#94a3b8">Backend systems · LLMs &amp; RAG · Agents &amp; bots</text>
+<g fill="none" stroke-width="1.5">
+<path d="M870 100L1000 66L1120 136L1082 265L932 284L870 100L1082 265M1000 66L991 178L932 284M870 100L991 178L1120 136M991 178L1082 265" stroke="#64748b" stroke-opacity=".5"/>
+<circle cx="991" cy="178" r="48" stroke="#5eead4" stroke-opacity=".3"/>
+<circle cx="991" cy="178" r="61" stroke="#5eead4" stroke-opacity=".12"/>
+</g>
+<g fill="#0f1c2e" stroke-width="2">
+<circle cx="870" cy="100" r="9" stroke="#5eead4"/><circle cx="1000" cy="66" r="7" stroke="#a78bfa"/>
+<circle cx="1120" cy="136" r="9" stroke="#5eead4"/><circle cx="1082" cy="265" r="7" stroke="#a78bfa"/>
+<circle cx="932" cy="284" r="8" stroke="#5eead4"/>
+<rect x="963" y="150" width="56" height="56" rx="16" stroke="#5eead4"/>
+</g>
+<path d="M980 169L971 178L980 187M1002 169L1011 178L1002 187M995 167L987 189" fill="none" stroke="#5eead4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="56" y="326" width="1088" height="2" rx="1" fill="url(#accent)" opacity=".45"/>
+</svg>
