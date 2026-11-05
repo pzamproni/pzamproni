@@ -1,32 +1,74 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paluan-batista" alt="Paluan Batista" /> </p>
+<p align="center">
+<img src="./assets/profile-header.svg" width="100%" alt="Paluan Batista — Senior Software Engineer | Backend, AI, agents and bots" />
+</p>
 
-### Hello, my name is Paluan Batista!
+<p align="center">
+<a href="https://www.linkedin.com/in/paluan-batista-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:paluan.desenvolvimento@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge" alt="Email" /></a>
+<a href="https://medium.com/@paluan-developer"><img src="https://img.shields.io/badge/Medium-171717?style=for-the-badge" alt="Medium" /></a>
+</p>
 
-I'm a Sr Software Engineer :robot:
+## Hi, I'm Paluan 👋
 
-I am Brazilian, live in Brazil. 🇧🇷
+I'm a **Senior Software Engineer** based in **Ribeirão Preto, Brazil**, with experience building financial products and digital platforms at **Creditas, PagBank, PicPay and iFood**.
 
+My work spans **backend engineering, distributed systems, cloud infrastructure and applied AI**. I work with Go, Kotlin, Java and Clojure, with strong experience in **AWS and DigitalOcean**. More recently, I worked at **SintetizaAI with LLMs and RAG**. I also build **AI agents, bots and automations**.
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paluan-batista&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/></td>    
-    </tr>   
-</table>
-</center> 
+### What I work with
 
+| Area | Experience & tools |
+| :--- | :--- |
+| **Backend & architecture** | Go · Kotlin · Java · Clojure · TypeScript · Spring Boot · Microservices · BFF · Server Driven UI |
+| **AI & automation** | LLMs · RAG · AI agents · Bots · n8n |
+| **Development workflow** | Codex · Claude Code · Linear · Git |
+| **Cloud & delivery** | **AWS · DigitalOcean** · GCP · Docker · Kubernetes · Helm · Terraform · CI/CD |
+| **Data & messaging** | PostgreSQL · MySQL · MongoDB · Redis · Datomic · Kafka · RabbitMQ |
+| **Observability** | OpenTelemetry · Grafana · Prometheus · Datadog · New Relic · Dynatrace |
 
-#### Technologies & Tools I work:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,kotlin,java,clojure,aws,docker,kubernetes,terraform,postgres,redis,grafana,prometheus&amp;perline=6" alt="Backend, cloud, data and observability tools" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,heroku,kotlin,docker,grafana,kubernetes,git,go,clojure,linux,mongodb,redis,postgres,java)](https://skillicons.dev)
+### Cloud infrastructure
 
+Strong experience with **AWS and DigitalOcean**, alongside containerized applications, infrastructure as code and delivery pipelines.
 
-### You can also find me here: :arrow_lower_left:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/paluan-dev666)](https://github.com/paluan-dev666)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paluan-batista-developer/)](https://www.linkedin.com/in/paluan-batista-developer/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997305457&text=Olá!Te_encontrei_através_do_GitHub.)](https://api.whatsapp.com/send?phone=5516997305457&text=Olá!Te_encontrei_através_do_GitHub)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paluan.desenvolvimento@gmail.com)](mailto:paluan.desenvolvimento@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@paluan-developer)](https://medium.com/@paluan-developer)
+On AWS, my experience includes **EC2, S3, SNS, SQS, Glue, Athena and EKS**, supporting backend services, integrations and batch processing.
 
-### Thanks for visiting.
+### AI, agents & automation
 
+- **SintetizaAI:** recent experience with large language models (**LLMs**) and retrieval-augmented generation (**RAG**).
+- **Agents & bots:** building AI agents, bots and automated workflows, including **n8n**.
+- **Development workflow:** working with **Codex, Claude Code and Linear**.
+- **Continuing education:** pursuing postgraduate studies in **Applied Artificial Intelligence at Coders**.
+
+### Career highlights
+
+| Company | Selected work |
+| :--- | :--- |
+| **Creditas** | Backend development, technical refinement and Server Driven UI with Go, Kotlin, Java and AWS. |
+| **PagBank** | High-volume file batch processing with Kotlin and AWS, and financial integrations. |
+| **PicPay** | Server Driven UI for shopping and gift cards, plus service monitoring with metrics and telemetry. |
+| **iFood** | Catalog BFF and microservices, with monitoring for services handling high request volumes. |
+| **Monitora** | Web development and integrations with Salesforce APIs. |
+| **iDtrust** | Financial software development with Clojure, Java and Spring Boot. |
+
+### Explore my work
+
+Public examples of backend development, resilience and observability:
+
+| Project | What you'll find |
+| :--- | :--- |
+| [**Circuit Breaker in Go**](https://github.com/paluan-batista/circuit-breaker-go-example) | A practical circuit breaker example using Go and gobreaker. |
+| [**DevBook API**](https://github.com/paluan-batista/api-devbook) | A social network backend API written in Go. |
+| [**Prometheus & Grafana**](https://github.com/paluan-batista/prometheus-grafana) | An endpoint that generates data for Prometheus metrics. |
+
+---
+
+<p align="center">
+<b>Let's connect.</b><br />
+Backend engineering, applied AI, agents and automation.<br /><br />
+<a href="https://www.linkedin.com/in/paluan-batista-developer/">LinkedIn</a> ·
+<a href="mailto:paluan.desenvolvimento@gmail.com">Email</a> ·
+<a href="https://medium.com/@paluan-developer">Medium</a>
+</p>
