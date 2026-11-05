@@ -59,9 +59,9 @@ Public examples of backend development, resilience and observability:
 
 | Project | What you'll find |
 | :--- | :--- |
-| [**Circuit Breaker in Go**](https://github.com/paluan-batista/circuit-breaker-go-example) | A practical circuit breaker example using Go and gobreaker. |
-| [**DevBook API**](https://github.com/paluan-batista/api-devbook) | A social network backend API written in Go. |
-| [**Prometheus & Grafana**](https://github.com/paluan-batista/prometheus-grafana) | An endpoint that generates data for Prometheus metrics. |
+| [**Circuit Breaker in Go**](https://github.com/pzamproni/circuit-breaker-go-example) | A practical circuit breaker example using Go and gobreaker. |
+| [**DevBook API**](https://github.com/pzamproni/api-devbook) | A social network backend API written in Go. |
+| [**Prometheus & Grafana**](https://github.com/pzamproni/prometheus-grafana) | An endpoint that generates data for Prometheus metrics. |
 
 ---
 
